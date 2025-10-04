@@ -1,4 +1,6 @@
 # Project HANGMAN 
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+
 This project consists of creating a hangman game. 
 ___
 ## Basic instructions
@@ -56,4 +58,5 @@ ___
 ___
 ## Contributor
 ### Dessenne Ylan
+
 <a href="https://ytrack.learn.ynov.com/git/dylan"><img src="data/picture/torolgo.png" width=60wh>
